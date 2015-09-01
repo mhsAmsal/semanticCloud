@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/Classifier4J-0.6.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/jsoup-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/maui.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/multilayerPerceptronCS.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/RBFNetwork.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/weka.jar"/>
+	<classpathentry kind="lib" path="/home/mxa2975/Dropbox/prgm_prj/semanticCloud/lib/wikipediaminer1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
